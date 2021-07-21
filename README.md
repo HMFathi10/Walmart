@@ -1,5 +1,5 @@
-# Walmart
-Mini Walmart website
+# Walmart [en]
+## Mini Walmart website [en]
 
 ![WalmartHomePage](https://user-images.githubusercontent.com/52832130/126383383-83a74281-eca3-4fc2-8065-444096bcd723.png)
 ![FoodPage](https://user-images.githubusercontent.com/52832130/126383406-56eee646-4644-461c-9b59-c0e48d9292c1.png)
